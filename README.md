@@ -1,1 +1,1 @@
-# jquery-autoNumeric
+# AutoNumeric Versi 1.9.26
